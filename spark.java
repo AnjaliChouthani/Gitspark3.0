@@ -8,4 +8,7 @@ public class spark{
     public void notifyUser(){
         System.out.println("Hello notify usr");
     }
+    public void autheticaton(){
+        System.out.println("done authentication....");
+    }
 }
