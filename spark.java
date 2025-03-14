@@ -5,4 +5,7 @@ public class spark{
     public void payment(){
         System.out.println("modfied");
     }
+    public void notifyUser(){
+        System.out.println("Hello notify usr");
+    }
 }
